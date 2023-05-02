@@ -1,3 +1,3 @@
-﻿var runner = new LeetCodeTasks._1491AverageSalaryExcludingtheMinimumandMaximumSalary.Runner();
+﻿var runner = new LeetCodeTasks._1822SignoftheProductofanArray.Runner();
 runner.Run();
 Console.ReadLine();
