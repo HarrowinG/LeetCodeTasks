@@ -1,3 +1,3 @@
-﻿var runner = new LeetCodeTasks.Weekly344.Runner();
+﻿var runner = new LeetCodeTasks._1572MatrixDiagonalSum.Runner();
 runner.Run();
 Console.ReadLine();
