@@ -1,3 +1,3 @@
-﻿var runner = new LeetCodeTasks._1572MatrixDiagonalSum.Runner();
+﻿var runner = new LeetCodeTasks._59SpiralMatrixII.Runner();
 runner.Run();
 Console.ReadLine();
