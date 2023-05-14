@@ -1,3 +1,3 @@
-﻿var runner = new LeetCodeTasks._2466CountWaysToBuildGoodStrings.Runner();
+﻿var runner = new LeetCodeTasks._1799MaximizeScoreAfterNOperations.Runner();
 runner.Run();
 Console.ReadLine();
