@@ -1,3 +1,3 @@
-﻿var runner = new LeetCodeTasks._1799MaximizeScoreAfterNOperations.Runner();
+﻿var runner = new LeetCodeTasks._1721SwappingNodesinaLinkedList.Runner();
 runner.Run();
 Console.ReadLine();
