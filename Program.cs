@@ -1,3 +1,3 @@
-﻿var runner = new LeetCodeTasks._1721SwappingNodesinaLinkedList.Runner();
+﻿var runner = new LeetCodeTasks._24SwapNodesinPairs.Runner();
 runner.Run();
 Console.ReadLine();
