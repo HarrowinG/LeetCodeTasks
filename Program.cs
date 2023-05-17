@@ -1,3 +1,3 @@
-﻿var runner = new LeetCodeTasks._24SwapNodesinPairs.Runner();
+﻿var runner = new LeetCodeTasks._2130MaximumTwinSumofaLinkedList.Runner();
 runner.Run();
 Console.ReadLine();
