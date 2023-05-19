@@ -1,3 +1,3 @@
-﻿var runner = new LeetCodeTasks._1557MinimumNumberofVerticestoReachAllNodes.Runner();
+﻿var runner = new LeetCodeTasks._785IsGraphBipartite.Runner();
 runner.Run();
 Console.ReadLine();
