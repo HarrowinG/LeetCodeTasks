@@ -1,3 +1,3 @@
-﻿var runner = new LeetCodeTasks._399EvaluateDivision.Runner();
+﻿var runner = new LeetCodeTasks._934ShortestBridge.Runner();
 runner.Run();
 Console.ReadLine();
