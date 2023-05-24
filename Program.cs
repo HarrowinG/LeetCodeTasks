@@ -1,3 +1,3 @@
-﻿var runner = new LeetCodeTasks._703KthLargestElementinaStream.Runner();
+﻿var runner = new LeetCodeTasks._2542MaximumSubsequenceScore.Runner();
 runner.Run();
 Console.ReadLine();
