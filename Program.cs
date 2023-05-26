@@ -1,3 +1,3 @@
-﻿var runner = new LeetCodeTasks._837New21Game.Runner();
+﻿var runner = new LeetCodeTasks._1140StoneGameII.Runner();
 runner.Run();
 Console.ReadLine();
