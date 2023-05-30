@@ -1,3 +1,3 @@
-﻿var runner = new LeetCodeTasks._1603DesignParkingSystem.Runner();
+﻿var runner = new LeetCodeTasks._705DesignHashSet.Runner();
 runner.Run();
 Console.ReadLine();
