@@ -1,3 +1,3 @@
-﻿var runner = new LeetCodeTasks._705DesignHashSet.Runner();
+﻿var runner = new LeetCodeTasks._1396DesignUndergroundSystem.Runner();
 runner.Run();
 Console.ReadLine();
