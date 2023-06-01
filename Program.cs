@@ -1,3 +1,3 @@
-﻿var runner = new LeetCodeTasks._1396DesignUndergroundSystem.Runner();
+﻿var runner = new LeetCodeTasks._1091ShortestPathinBinaryMatrix.Runner();
 runner.Run();
 Console.ReadLine();
