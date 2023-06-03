@@ -1,3 +1,3 @@
-﻿var runner = new LeetCodeTasks._2101DetonatetheMaximumBombs.Runner();
+﻿var runner = new LeetCodeTasks._1376TimeNeededtoInformAllEmployees.Runner();
 runner.Run();
 Console.ReadLine();
