@@ -1,3 +1,3 @@
-﻿var runner = new LeetCodeTasks._1376TimeNeededtoInformAllEmployees.Runner();
+﻿var runner = new LeetCodeTasks._547NumberofProvinces.Runner();
 runner.Run();
 Console.ReadLine();
