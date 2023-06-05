@@ -1,3 +1,3 @@
-﻿var runner = new LeetCodeTasks._547NumberofProvinces.Runner();
+﻿var runner = new LeetCodeTasks._1232CheckIfItIsaStraightLine.Runner();
 runner.Run();
 Console.ReadLine();
