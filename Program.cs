@@ -1,3 +1,3 @@
-﻿var runner = new LeetCodeTasks._1318MinimumFlipstoMakeaORbEqualtoc.Runner();
+﻿var runner = new LeetCodeTasks._1351CountNegativeNumbersinaSortedMatrix.Runner();
 runner.Run();
 Console.ReadLine();
