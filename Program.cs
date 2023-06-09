@@ -1,3 +1,3 @@
-﻿var runner = new LeetCodeTasks._1351CountNegativeNumbersinaSortedMatrix.Runner();
+﻿var runner = new LeetCodeTasks._744FindSmallestLetterGreaterThanTarget.Runner();
 runner.Run();
 Console.ReadLine();
