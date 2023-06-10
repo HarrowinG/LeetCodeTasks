@@ -1,3 +1,3 @@
-﻿var runner = new LeetCodeTasks._744FindSmallestLetterGreaterThanTarget.Runner();
+﻿var runner = new LeetCodeTasks._1802MaximumValueataGivenIndexinaBoundedArray.Runner();
 runner.Run();
 Console.ReadLine();
