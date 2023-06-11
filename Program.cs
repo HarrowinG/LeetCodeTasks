@@ -1,3 +1,3 @@
-﻿var runner = new LeetCodeTasks._1802MaximumValueataGivenIndexinaBoundedArray.Runner();
+﻿var runner = new LeetCodeTasks._1146SnapshotArray.Runner();
 runner.Run();
 Console.ReadLine();
