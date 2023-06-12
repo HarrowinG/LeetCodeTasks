@@ -1,3 +1,3 @@
-﻿var runner = new LeetCodeTasks._1146SnapshotArray.Runner();
+﻿var runner = new LeetCodeTasks._228SummaryRanges.Runner();
 runner.Run();
 Console.ReadLine();
