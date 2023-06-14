@@ -1,3 +1,3 @@
-﻿var runner = new LeetCodeTasks._2352EqualRowandColumnPairs.Runner();
+﻿var runner = new LeetCodeTasks._530MinimumAbsoluteDifferenceinBST.Runner();
 runner.Run();
 Console.ReadLine();
