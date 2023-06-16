@@ -1,3 +1,3 @@
-﻿var runner = new LeetCodeTasks._1161MaximumLevelSumofaBinaryTree.Runner();
+﻿var runner = new LeetCodeTasks._1569NumberofWaystoReorderArraytoGetSameBST.Runner();
 runner.Run();
 Console.ReadLine();
